@@ -1,10 +1,7 @@
-package br.com.argentum.test;
+package br.com.argentum.model;
 
 import java.time.LocalDateTime;
 import java.util.List;
-
-import br.com.argentum.model.Candlestick;
-import br.com.argentum.model.Negociacao;
 
 public class CandlestickFactory {
 
